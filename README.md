@@ -1,5 +1,7 @@
 # Student Performance Analytics
 
+🔗 **Live Demo:** https://student-performance-analytics9262.streamlit.app
+
 A Python project that analyzes student performance data and shows the results in a dashboard.
 
 ## Files
@@ -10,7 +12,7 @@ A Python project that analyzes student performance data and shows the results in
 ## How to run
 1. Install Python 3.
 2. Install the required libraries:
-   pip install pandas matplotlib streamlit
+   pip install -r requirements.txt
 3. Run the analysis:
    python main.py
 4. Run the dashboard:
